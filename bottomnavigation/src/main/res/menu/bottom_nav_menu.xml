@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_batman"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_batman" />
+
+    <item
+        android:id="@+id/navigation_superman"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_superman" />
+
+    <item
+        android:id="@+id/navigation_flash"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_flash" />
+
+    <item
+        android:id="@+id/navigation_wonder_woman"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_wonder_woman" />
+</menu>
