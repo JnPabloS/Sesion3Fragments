@@ -5,23 +5,26 @@
     android:id="@+id/mobile_navigation.xml"
     app:startDestination="@id/navigation_batman">
     <fragment
+        android:title="@string/alias_batman"
         android:id="@+id/navigation_batman"
         android:name="com.jnpablos.bottomnavigation.BatmanFragment"
-        android:label="fragment_batman"
+        android:label="@string/title_batman"
         tools:layout="@layout/fragment_batman" />
     <fragment
+        android:title="@string/alias_batman"
         android:id="@+id/navigation_flash"
         android:name="com.jnpablos.bottomnavigation.FlashFragment"
-        android:label="fragment_flash"
+        android:label="@string/title_flash"
         tools:layout="@layout/fragment_flash" />
     <fragment
+        android:title="@string/alias_batman"
         android:id="@+id/navigation_superman"
         android:name="com.jnpablos.bottomnavigation.SupermanFragment"
-        android:label="fragment_superman"
+        android:label="@string/title_superman"
         tools:layout="@layout/fragment_superman" />
     <fragment
         android:id="@+id/navigation_wonder_woman"
         android:name="com.jnpablos.bottomnavigation.WonderWomanFragment"
-        android:label="fragment_wonder_woman"
+        android:label="@string/title_wonder_woman"
         tools:layout="@layout/fragment_wonder_woman" />
 </navigation>

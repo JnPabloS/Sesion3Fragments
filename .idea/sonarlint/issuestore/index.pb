@@ -11,8 +11,6 @@ p
 app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
 M
 bottomnavigation/build.gradle,c\8\c85d1139df011bed147931906626101f7cf6e41a
-~
-Nbottomnavigation/src/main/java/com/jnpablos/bottomnavigation/BatmanFragment.kt,7\6\76e5429b73dfef8a4eae684fb55a99038520ef3f
 }
 Mbottomnavigation/src/main/java/com/jnpablos/bottomnavigation/FlashFragment.kt,c\d\cd909720087944138fc2e344172c388e208819c0
 €
